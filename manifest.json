@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Brawn",
+    "version": "0.1.0.2",
+    "description": "Test extension: You are my sunshine.",
+    "content_scripts": [
+      {
+        "js": ["content.js"],
+        "matches" : ["<all_urls>"]
+      }
+    ]
+  }
+  
