@@ -1,2 +1,2 @@
 # LebronExtension
-Test extension that turns images into picture of Lebron you are my sunshine.
+This is a test project for an extension that turns all images on google into picture of Lebron you are my sunshine.
